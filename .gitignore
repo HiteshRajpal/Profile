@@ -9,11 +9,8 @@
 /coverage
 
 # production
-#/build
-/src
-package.json
-package-lock.json
-tsconfig.json
+/build
+
 # misc
 .DS_Store
 .env.local
